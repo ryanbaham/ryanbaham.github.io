@@ -33,7 +33,7 @@ div.wrapper {
   position: absolute;
   border: 5vw;
   border-radius: 1vw;
-  box-shadow: .5vw .75vw 2vw #379683;
+  box-shadow: .5vw .75vw 1vw #379683;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);
   top: 50vh;
   left: 50vw;
